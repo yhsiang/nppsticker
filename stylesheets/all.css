@@ -547,7 +547,7 @@ label.checkbox {
   outline: none;
   width: 30px;
   height: 30px;
-  background: #00acb3;
+  background: black;
   opacity: 1;
   border: 0px solid transparent;
   -webkit-border-radius: 15px;
@@ -564,14 +564,14 @@ label.checkbox {
 }
 /* line 100, ../sass/partials/_preview.scss */
 .preview #size-slider .zoomin {
-  color: #00acb3;
+  color: black;
   position: absolute;
   top: -15px;
   right: -17px;
 }
 /* line 106, ../sass/partials/_preview.scss */
 .preview #size-slider .zoomout {
-  color: #00acb3;
+  color: black;
   position: absolute;
   top: -15px;
   left: -17px;
