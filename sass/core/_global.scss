@@ -7,11 +7,9 @@ body {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   background-color: $background-color;
-  color: $text-black;
   font-size: $base-font-size;
   line-height: $base-line-height;
   padding: 20px 0;
-  background: #25aab2;
 }
 a {
   @include link-colors($link-color, $link-color-hover);

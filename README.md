@@ -1,13 +1,13 @@
-# 7 號頭像產生器（開源版）
+# 支持時代力量頭像產生器
 
 ## Demo
 
-[這裡](http://goooooooogle.github.io/profile-picture-generator/)
+[這裡](http://yhsiang.github.io/nppsticker)
 
 
 ## 簡介
 
-本產生器由 [朕的產生器](https://www.facebook.com/kxgen) 開發
+本產生器由 [7號頭像產生器](https://github.com/goooooooogle/7) 開發
 
 
 ## 授權
